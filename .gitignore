@@ -1,0 +1,6 @@
+temp
+*.tar.gz
+*.tar.bz2
+*.iso
+*.lzma
+*.tar
